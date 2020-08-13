@@ -44,3 +44,13 @@ Basics:-
                step3:- declare the radius length
                step4:-declare the color tuple
                step5:-put all to gether into cv2.circle
+     8.t8.py:-
+               step1:-Declare the canvas
+
+              step2:- 
+                      use np.random.randinit for initialzing
+                      center of size=(2,)
+                     color of size=(3,)
+                     radius=single element
+        
+             step3:-draw circles using cv2.circle using for loop
