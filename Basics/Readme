@@ -29,8 +29,17 @@ Basics:-
             step5:-draw line on the canvas from pt1 to pt2
 
             here in this example code overwritten of lines in canvas will occur
-    6.t5.py:-
+    6.t6.py:-
               Aim to draw the create canvas and create rectangle
               step1:-create canvas and color tuples,blue=(255,0,0),green=(0,255,0),red=(0,0,255)
               step2:-create pt1 and pt2 co-ordinates tuples
               step3:-use cv2.rectangle api to draw rectangle
+              
+    7.t7.py :-
+                wc for circle drawing,for circle we need centre of circle
+                cv2.circle(img, center, radius, color)
+               step1:-declare canvas
+               step2:-declare the center co-ordinates as tuple
+               step3:- declare the radius length
+               step4:-declare the color tuple
+               step5:-put all to gether into cv2.circle
