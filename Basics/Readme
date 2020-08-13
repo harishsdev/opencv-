@@ -24,3 +24,8 @@ Basics:-
             step5:-draw line on the canvas from pt1 to pt2
 
             here in this example code overwritten of lines in canvas will occur
+    6.t5.py:-
+              Aim to draw the create canvas and create rectangle
+              step1:-create canvas and color tuples,blue=(255,0,0),green=(0,255,0),red=(0,0,255)
+              step2:-create pt1 and pt2 co-ordinates tuples
+              step3:-use cv2.rectangle api to draw rectangle
