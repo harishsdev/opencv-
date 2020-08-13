@@ -5,3 +5,8 @@ Basics:-
 2.t2.py:- image description
 
 3.t3.py:- pixel dexcription
+
+4.t4.py:-
+
+          line will have a start and end point (x1,y1)  and (x2,y2)
+          cv2.line(canvas_name,starting_point,ending point,color)
