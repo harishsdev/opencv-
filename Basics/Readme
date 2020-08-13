@@ -10,3 +10,17 @@ Basics:-
 
           line will have a start and end point (x1,y1)  and (x2,y2)
           cv2.line(canvas_name,starting_point,ending point,color)
+          
+ 5.t5.py:-
+ 
+            step1:-Declare canvas shape
+            step2:-np.zeros for canvas formation
+            step3:-show canvas image 
+            step4:-(b,g,r),255 is highest value declare red color tuple as (0,0,255) and green as 
+
+                blue=(255,0,0)
+                green=(0,255,0)
+                red=(0,0,255)
+            step5:-draw line on the canvas from pt1 to pt2
+
+            here in this example code overwritten of lines in canvas will occur
